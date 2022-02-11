@@ -13,7 +13,7 @@ const clientes = [
             parentesco: "Filha",
             dataNasc: "15/05/2014",
         }],
-    }
+    },
     {
         nome: "Juliana",
         cpf: "12345234455",
